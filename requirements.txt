@@ -15,7 +15,9 @@ torchvision==0.15.2       # Vision library for PyTorch
 # Python version note: Use Python 3.7 or above for compatibility with these packages.
 
 
+# pip install --upgrade pip
 
+# pip install -r requirements.txt
 
 
 # for creating the env
